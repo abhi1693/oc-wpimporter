@@ -1,0 +1,12 @@
+{
+    "type": "october-plugin",
+    "require": {
+        "php": ">=5.4",
+        "pixel418/markdownify": "~2.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "klyp\\wpimporter\\": ""
+        }
+    }
+}
